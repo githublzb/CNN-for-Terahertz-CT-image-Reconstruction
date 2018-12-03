@@ -5,7 +5,7 @@ The convolution neural network is coded by tensorflow keras. Synthetic training 
 
 The Project will keep updating.
 
-![alt text](https://github.com/shawnye1994/CNN-for-Radon-Transformation/blob/master/CNN%20architecture.jpg)
+![alt text](https://github.com/shawnye1994/CNN-for-Terahertz-CT-image-Reconstruction/blob/master/CNN%20architecture.jpg)
 
 >The training data is composed of two different data set. The first one is ellipsoid dataset. It’s a synthetic dataset that comprises 500 >images of ellipses of random intensity, size, and location. Sinograms for this data are 729 pixels by 1,000 views and are created using >the analytical expression for the X-ray transform of an ellipse. The matlab function iradon is used for FBPs.
 >The second training dataset is a biomedical synthetic dataset that comprises 500 real in-vivo CT images from the Low-dose Grand challenge >competition from database made by the Mayo clinic. Sinograms for this data are 729 pixels by 1,000 views and are created using the Matlab >function radon, iradon is again used for FBPs.
